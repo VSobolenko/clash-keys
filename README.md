@@ -1,8 +1,21 @@
+<div align="center">
+  <img src="Assets/_ClashKeys/StaticAssets/Sprites/Icons/icon.png" 
+alt="Clash Keys" width="256"/>
+
 # Clash Keys
 
-## Unity Version
+_Cross, fight, unlock treasure!_
 
-**2022.3.46f1**
+[![Unity](https://img.shields.io/badge/Unity-2022.3.62f2-black?logo=unity)](https://unity.com/)
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white)](https://discord.gg/udWD2NCvc6)
+</div>
+
+---
+
+## How to Run
+
+1. Clone the repository
+2. Open and Run *Assets/_ClashKeys/Scenes/Main.unity* scene
 
 ## Description
 
@@ -31,3 +44,8 @@ Features:
 ## Gameplay Video
 
 ![](Content/Gameplay.gif)
+
+
+<div align="center">
+  <sub>Made with ❤️ by Gexetr</sub>
+</div>

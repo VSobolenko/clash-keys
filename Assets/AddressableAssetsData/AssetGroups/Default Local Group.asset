@@ -16,62 +16,7 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: ad60cd1c7b9aff04b9acf1f5b5fa4df1
-  m_SerializeEntries:
-  - m_GUID: 07fe183871580f045952a83102467ccd
-    m_Address: Enemy
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 1309320d7c2c3a04bb70b8b43a671316
-    m_Address: UI/DefeatWindow
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 1952f6d98f318654a87bbcb507251b6d
-    m_Address: Chest
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 3ef18ff7d6904b04c82848e9b29032d1
-    m_Address: Item1
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 4e8d8a5a01bf1f5409edc3be352ea23f
-    m_Address: Bullet
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 4ef189c72cfcd2647ba254f04cf71ca0
-    m_Address: UI/GameWindow
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 8a72ee1637ac70a4a9a235ab892ea253
-    m_Address: UI/EnemyFightingWindow
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: b4b3efd278d9f0641a54780fd841b98f
-    m_Address: UI/ChestWindow
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: cf8f7bf9207de6a4db99f17f353a509d
-    m_Address: UI/VictoryWindow
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: d7a30a631b37a1c448a885368202e32d
-    m_Address: FightView
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: e0a054fd90a0fcf4ebd98c7553bb5f5e
-    m_Address: UI/UIRoot
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
+  m_SerializeEntries: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 03c3a044a4381c344a28de39eeec03cc, type: 2}
   m_SchemaSet:
